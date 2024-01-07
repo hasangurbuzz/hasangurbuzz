@@ -18,11 +18,14 @@
 </a>
 
 
-### Technologies
 
+# 
 <a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="">
 </a>
+
+
+### Technologies
 
 <div style="display: flex; justify-content: space-around;">
 
