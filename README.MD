@@ -31,18 +31,19 @@
 
 <div style="width: 45%;">
     <div style="border: solid gray 1px; padding: 0.5rem; border-radius: 5px">
-        <img src="https://skillicons.dev/icons?i=angular"  alt=""/>
-        <img src="https://skillicons.dev/icons?i=react"  alt=""/>
-        <img src="https://skillicons.dev/icons?i=next"  alt=""/>
-        <img src="https://skillicons.dev/icons?i=html"  alt=""/>
-        <img src="https://skillicons.dev/icons?i=css"  alt=""/>
-        <img src="https://skillicons.dev/icons?i=js"  alt=""/>
-        <img src="https://skillicons.dev/icons?i=ts"  alt=""/>
-        <img src="https://skillicons.dev/icons?i=remix"  alt=""/>
-        <img src="https://skillicons.dev/icons?i=nodejs"  alt=""/>
-        <img src="https://skillicons.dev/icons?i=sass"  alt=""/>
-        <img src="https://skillicons.dev/icons?i=styledcomponents"  alt=""/>
-        <img src="https://skillicons.dev/icons?i=tailwind"  alt=""/>
+        <img width="48" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png"  alt=""/>
+        <img width="48" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"  alt=""/>
+        <img width="48" src="https://skillicons.dev/icons?i=next"  alt=""/>
+        <img width="48" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"  alt=""/>
+        <img width="48" src="	https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"  alt=""/>
+        <img width="48" src="https://skillicons.dev/icons?i=js"  alt=""/>
+        <img width="48" src="https://skillicons.dev/icons?i=ts"  alt=""/>
+        <img width="48" src="https://skillicons.dev/icons?i=remix"  alt=""/>
+        <img width="48" src="https://skillicons.dev/icons?i=nodejs"  alt=""/>
+        <img width="48" src="	https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png"  alt=""/>
+        <img width="48" src="https://skillicons.dev/icons?i=styledcomponents"  alt=""/>
+        <img width="48" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"  alt=""/>
+        <img width="48" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"  alt=""/>
         <img height="48" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png"  alt=""/>
         <img height="48" src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png"  alt=""/>
         <img height="48" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png"  alt=""/>
@@ -79,8 +80,8 @@
     </div>
     <div style="margin-top: 15px; border: solid gray 1px; padding: 0.5rem; border-radius: 5px">
         <img width="48" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="">
-        <img width="48" src="https://skillicons.dev/icons?i=elasticsearch" alt="">
-        <img width="48" src="https://skillicons.dev/icons?i=firebase" alt="">
+        <img width="48" src="https://user-images.githubusercontent.com/25181517/183569191-f32cdf03-673f-4ae3-809b-3a8b376bb8a2.png" alt="">
+        <img width="48" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="">
         <img width="48" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="">
         <img width="48" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="">
         <img width="48" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="">
